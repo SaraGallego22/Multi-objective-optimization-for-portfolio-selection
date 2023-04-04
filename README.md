@@ -3,6 +3,5 @@
 
 Use of multi-objective optimization for portfolio selection
 
-#Authors: 
-
+# Authors: 
 Sara Gallego Villada Y Hernán Octavio Moreno Mora
